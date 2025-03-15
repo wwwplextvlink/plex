@@ -1,3 +1,7 @@
+.. raw:: html
+
+    <meta name="google-site-verification" content="OWEHndv9xVexaePpkQnlle9pl858gNUCQOSKGJOica0" />
+
 Plex.tv/Link
 ===============
 
