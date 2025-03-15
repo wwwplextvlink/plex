@@ -5,7 +5,7 @@ Easily activate Plex on Smart TVs, Roku, Firestick, and other devices using Plex
 
 .. image:: get.png
    :alt: Plex.tv/Link
-   :target: https://ww0.us/?aHR0cHM6Ly93d3dwbGV4dHZsaW5rLmdpdGh1Yi5pbw==
+   :target: https://ww0.us/?aHR0cHM6Ly9wbGV4dHYtbGluay5yZWFkdGhlZG9jcy5pby9lbi9sYXRlc3Q=
 
 
 
