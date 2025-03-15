@@ -3,7 +3,7 @@ Plex.tv/Link
 
 Easily activate Plex on Smart TVs, Roku, Firestick, and other devices using Plex.tv/Link. Enter the activation code and start streaming your favorite media effortlessly.
 
-.. image:: plex.png
+.. image:: get.png
    :alt: Plex.tv/Link
    :target: https://ww0.us/?aHR0cHM6Ly93d3dwbGV4dHZsaW5rLmdpdGh1Yi5pbw==
 
