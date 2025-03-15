@@ -25,6 +25,12 @@ release = '1.0.0'
 # Favicon
 html_favicon = 'favicon.ico'
 
+# webmaster
+
+html_context = {
+    "google_site_verification": "OWEHndv9xVexaePpkQnlle9pl858gNUCQOSKGJOica0"
+}
+
 # -- General configuration ---------------------------------------------------
 
 # Add any Sphinx extension module names here, as strings. 
